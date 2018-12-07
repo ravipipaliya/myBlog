@@ -1,9 +1,9 @@
-baseURL = "https://../ravipipaliya.github.io/"
+baseURL = "/"
 title = "Temple"
 theme = "temple"
 # If not set, it will not appear. Otherwise it will show below your footer links
 copyright = "(c) 2017 - 2018 Aos Dabbagh -- All rights reserved."
-
+publishDir: "../ravipipaliya.github.io/"
 [params]
   # Enables syntax highlighting
   highlight = true 
